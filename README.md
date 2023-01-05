@@ -1,49 +1,8 @@
 # Detecting-Depression-through-Tweets
 
+## To be modified..
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###Resources
+### Resources
 - https://www.youtube.com/watch?v=oWo9SNcyxlI
 - https://github.com/peijoy/DetectDepressionInTwitterPosts/blob/master/DepressionDetectionInTwitter.ipynb
 - https://github.com/llSourcell/logistic_regression/blob/master/Sentiment%20analysis%20with%20Logistic%20Regression.ipynb
