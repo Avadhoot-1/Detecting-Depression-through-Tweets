@@ -11,3 +11,4 @@
 - https://www.kaggle.com/code/haresrv/sentiment-analysis/notebook
 - https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 - https://github.com/nagypeterjob/Sentiment-Analysis-NLTK-ML-LSTM/blob/master/lstm.ipynb
+- https://stats.stackexchange.com/questions/335793/what-is-difference-between-keras-embedding-layer-and-word2vec
