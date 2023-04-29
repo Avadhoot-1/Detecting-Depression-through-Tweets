@@ -1,6 +1,5 @@
 # Detecting-Depression-through-Tweets
 
-## To be modified..
 
 ### Resources
 - https://www.youtube.com/watch?v=oWo9SNcyxlI
