@@ -1,7 +1,19 @@
 # Detecting-Depression-through-Tweets
+The aim of this project is to build a deep learning model to classify Twitter users into different risk zones for depression based on their Tweets
 
+## Week 1-2
+* Text pre-processing
+* Exploratory data analysis by plotting graphs and using tools like word cloud
 
-### Resources
+## Week 3-4
+* Creating LSTM model and analyzing accuracy
+* Embedding layer using word2vec
+* Creating Logistic regression model and comparing its performance with LSTM
+
+## Tech-stack Used
+Mainly Pandas, NLTK,Matplotlib, Numpy, Keras, Gensim, wordcloud, LSTM from keras.
+
+## Resources
 - https://www.youtube.com/watch?v=oWo9SNcyxlI
 - https://github.com/peijoy/DetectDepressionInTwitterPosts/blob/master/DepressionDetectionInTwitter.ipynb
 - https://github.com/llSourcell/logistic_regression/blob/master/Sentiment%20analysis%20with%20Logistic%20Regression.ipynb
